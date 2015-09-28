@@ -1,12 +1,10 @@
 package au.com.emberspring.service;
 
-import java.util.List;
-
-import org.springframework.stereotype.Repository;
-
 import au.com.emberspring.domain.Blog;
 import au.com.emberspring.domain.Category;
 import au.com.emberspring.domain.Post;
+
+import java.util.List;
 
 
 public interface FixtureDataDao {

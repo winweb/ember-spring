@@ -1,9 +1,9 @@
 package au.com.emberspring.service;
 
-import java.util.List;
-
 import au.com.emberspring.domain.Blog;
 import au.com.emberspring.domain.Post;
+
+import java.util.List;
 
 public interface BlogService {
 

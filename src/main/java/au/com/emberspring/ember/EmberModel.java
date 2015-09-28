@@ -1,13 +1,12 @@
 package au.com.emberspring.ember;
 
-import java.util.Collection;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.ConcurrentMap;
-
+import com.google.common.base.CaseFormat;
 import org.atteo.evo.inflector.English;
 import org.springframework.util.Assert;
 
-import com.google.common.base.CaseFormat;
+import java.util.Collection;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ConcurrentMap;
 
 
 @SuppressWarnings("serial")

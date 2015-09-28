@@ -1,14 +1,13 @@
 package au.com.emberspring.service;
 
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-
-import org.springframework.stereotype.Repository;
-
 import au.com.emberspring.domain.Blog;
 import au.com.emberspring.domain.Category;
 import au.com.emberspring.domain.Post;
+import org.springframework.stereotype.Repository;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
 
 /**
  * Fake Dao for demonstration purposes
